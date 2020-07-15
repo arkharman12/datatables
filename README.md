@@ -1,1 +1,2 @@
-# datatables
+# Datatables
+A web application that displays user information by searching for a last name. As the user starts to type in the textbox, all the last names that contains those letters show as hints, similar to Google Search. The user click a button and see all the information related to the users with that last name, such as first name, last name, email, gender, etc. The information should is wrapped into a Data Table
